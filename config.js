@@ -73,7 +73,7 @@ const config = {
         "Analyzed the property's true investment potential, including lot severance possibilities and renovation ROI, to justify our aggressive negotiation strategy and secure a price well below market value"
       ],
       "testimonial": {
-        "quote": "\"\"I've never encountered an agent who was able to navigate the process and check every box. We didn't think it was possible. We had a very specific list of requirements that seemed almost impossible to find: acreage, the right layout, development potential; all within our budget. Rick made the impossible... possible! He understood our investment vision from day one and delivered beyond our expectations. We're beyond excited about this home and the incredible opportunity it represents for our family's future.\"\"<br><span>- Satisfied Client</span>"
+        "quote": "\"I've never encountered an agent who was able to navigate the process and check every box. We didn't think it was possible. We had a very specific list of requirements that seemed almost impossible to find: acreage, the right layout, development potential; all within our budget. Rick made the impossible... possible! He understood our investment vision from day one and delivered beyond our expectations. We're beyond excited about this home and the incredible opportunity it represents for our family's future.\"<br><span>- Satisfied Client</span>"
       },
       "listItems": []
     },
